@@ -31,3 +31,23 @@
 15. personalized recipe box delivery.
 
 16. a coffee place specializing in delivery services, targeting a large college campus to cater to the needs of students who may not have the time to visit a physical coffee shop.
+
+17. platform for hosting virtual book clubs.
+
+18. mobile game teaching musical instrument basics.
+
+19. ai generated role-playing game scenarios.
+
+20. apple vision pro arcade games.
+
+21. remaking old video games to enable multiplayer gameplay over the internet, allowing people to relive nostalgic gaming experiences with friends who are located in different places.
+
+22. personalized book recommendation subscription.
+
+23. app for planning & visualizing home renovations.
+
+24. app for organizing recipes from various sources.
+
+25. personalized home decor subscription.
+
+
