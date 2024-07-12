@@ -50,4 +50,15 @@
 
 25. personalized home decor subscription.
 
+26. ai that gives feedback on drawings and art in general.
+
+27. cultural exchange student networking app.
+
+28. app teaching finance and investment basics.
+
+29. mobile app for learning coding through gaming.
+
+30. adaptive learning app for special needs kids.
+
+
 
